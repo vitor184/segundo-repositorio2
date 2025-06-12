@@ -22,7 +22,7 @@ body {
     background-color: rgb(255, 255, 255);
     height: 20rem;
     flex-grow: 1;
-    flex-basis: calc(20% -2rem); /* 5 cartões por linha
+    flex-basis: calc(20% - 2rem);
 }
 
 .cartao__conteudo {
